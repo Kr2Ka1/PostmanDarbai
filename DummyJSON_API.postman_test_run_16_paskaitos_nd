@@ -1,0 +1,174 @@
+{
+	"id": "024030d0-26bc-4b3c-b6e1-5bc398983797",
+	"name": "DummyJSON_API",
+	"timestamp": "2025-01-31T06:10:29.825Z",
+	"collection_id": "41089263-0e8306c9-153c-4ef7-8831-32388362ee93",
+	"folder_id": 0,
+	"environment_id": "41089263-fa1d89c1-e4fc-4c3f-a9e5-4b8d6093d77c",
+	"totalPass": 48,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-01-31T06:10:22.643Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "5642d324-9192-49d0-ba75-edc0f992a45b",
+			"name": "GetProductsByCategory",
+			"url": "https://dummyjson.com/products/category/womens-watches",
+			"time": 175,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Kategorijos produktų kiekis > 0": true,
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Kategorijos produktų kiekis > 0": {
+					"pass": 24,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 24,
+					"fail": 0
+				}
+			},
+			"times": [
+				527,
+				142,
+				141,
+				153,
+				140,
+				149,
+				155,
+				170,
+				142,
+				153,
+				149,
+				149,
+				143,
+				153,
+				145,
+				143,
+				140,
+				142,
+				153,
+				148,
+				141,
+				144,
+				144,
+				175
+			],
+			"allTests": [
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				},
+				{
+					"Kategorijos produktų kiekis > 0": true,
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 24,
+	"totalTime": 3941,
+	"collection": {
+		"requests": [
+			{
+				"id": "5642d324-9192-49d0-ba75-edc0f992a45b",
+				"method": "GET"
+			}
+		]
+	}
+}
